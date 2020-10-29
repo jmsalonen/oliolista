@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display: inline-flex
+}
+.fixed {
+  width: 500px;
+}
+.flex-item {
+  flex-grow: 1;
+  width: 500px;
+}
+.listButton {
+  width: 40%;
+}
+.listButton-age {
+  width: 20%;
+}
